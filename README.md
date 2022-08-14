@@ -4,9 +4,6 @@ In this challenge, we developed an ERC-Compliant fungible token that will serve 
 
 # Technologies
 This program leverages Remix IDE, on which we develop contracts in Solidity. We also used MetaMask and Ganache to similate a real-world web3 deployment.
-
-## Challenge: Martian Token Crowdsale
-
     
 ## Evaluation Evidence
 KaseiCoin Token Contract Compiled
@@ -18,4 +15,19 @@ KaseiCoin Crowdsale Contract Compiled
 KaseiCoin Deployer Contract Compiled
 ![Screen Shot 2022-08-14 at 3 26 45 PM](https://user-images.githubusercontent.com/98444459/184551894-22e6ef08-fac7-4519-a5d7-c623832fdf53.png)
 
+The Contract in Action
+![Working the Contract](https://user-images.githubusercontent.com/98444459/184552570-f6bba927-c017-4901-a87c-13b300aed372.gif)
 
+
+## Contributors
+
+Made by:
+Ryan Anderson
+  Email: m.anderson.ryan@gmail.com
+  LinkedIn: https://www.linkedin.com/in/ryan-anderson-57b2b173
+
+---
+
+## License
+
+No licenses are required to run this application
