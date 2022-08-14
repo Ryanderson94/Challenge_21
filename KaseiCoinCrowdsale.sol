@@ -18,7 +18,6 @@ contract KaseiCoinCrowdsaleDeployer {
     address public kasei_crowdsale_address;
 
 
-    // Add the constructor.
     constructor(string memory name, string memory symbol, address payable wallet) public {
         KaseiCoin token = new KaseiCoin(name, symbol, 0);
         kasei_token_address = address(token);
