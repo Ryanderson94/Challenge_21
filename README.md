@@ -200,3 +200,15 @@ To enhance your KaseiCoin crowdsale with this added functionality, complete the 
     * When sending ether to the contract, make sure that you meet the contract’s `goal`. Then, finalize the sale using the `Crowdsale` contract's `finalize` function. To finalize the sale, `isOpen` must return false (`isOpen` comes from `TimedCrowdsale` and checks to see whether the `close` time has passed yet). If you set the `goal` to 300 ether, for example, you may need to purchase tokens from multiple accounts in order to meet the goal. If you run out of pre-funded accounts in Ganache, you can create a new workspace.
 
     * View your tokens in MetaMask. In MetaMask, click Add Token, then click Custom Token,  and enter the token contract’s address. Make sure to purchase higher amounts of tokens in order to see the denomination appear in your wallet as more than a few wei worth.
+    
+** Evaluation Evidence
+KaseiCoin Token Contract Compiled
+![Screen Shot 2022-08-14 at 3 12 29 PM](https://user-images.githubusercontent.com/98444459/184551544-fb1a3023-ba9e-4127-ad1a-7039fbf01c8a.png)
+
+KaseiCoin Crowdsale Contract Compiled
+![Screen Shot 2022-08-14 at 3 21 10 PM](https://user-images.githubusercontent.com/98444459/184551742-a5790d1d-ef46-4af4-840c-2e48794db3cf.png)
+
+KaseiCoin Deployer Contract Compiled
+![Screen Shot 2022-08-14 at 3 26 45 PM](https://user-images.githubusercontent.com/98444459/184551894-22e6ef08-fac7-4519-a5d7-c623832fdf53.png)
+
+
